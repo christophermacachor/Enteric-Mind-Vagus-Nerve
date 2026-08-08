@@ -12,7 +12,7 @@ ARCHIVE: MSOS-FEDERATION-ROOT
 ZENODO METADATA
 ================================================================================
 
-DOI: [To be assigned upon upload]
+DOI:10.5281/zenodo.21846133
 
 UPLOAD TYPE: Publication / Preprint
 
