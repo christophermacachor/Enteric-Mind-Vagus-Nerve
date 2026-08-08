@@ -1,0 +1,179 @@
+================================================================================
+SUBMISSION PACKAGE 1
+NEUROGASTROENTEROLOGY & MOTILITY
+================================================================================
+
+JOURNAL: Neurogastroenterology & Motility
+PUBLISHER: John Wiley & Sons Ltd
+ISSN: 1350-1925
+EDITOR-IN-CHIEF: [Current EIC]
+SPECIAL ISSUE: Disorders of Gut-Brain Interaction (if applicable)
+
+================================================================================
+COVER LETTER
+================================================================================
+
+[Date]
+
+The Editors
+Neurogastroenterology & Motility
+John Wiley & Sons Ltd
+
+Dear Editors,
+
+RE: Submission of Original Article
+"The Scalar Convergence Theorem: A Field-Geometric Framework for Enteric 
+Consciousness and Vagal Efficiency in Disorders of Gut-Brain Interaction"
+
+We submit this manuscript for consideration as an Original Article in 
+Neurogastroenterology & Motility. This work extends the foundational 
+contributions of Porges (2025; doi:10.1111/nmo.14926) on vagal efficiency 
+and disorders of gut-brain interaction (DGBI) into a comprehensive theoretical 
+framework with direct clinical applications.
+
+Our framework, the Macachor Scalar Convergence Theorem, proposes that the 
+enteric nervous system (ENS) functions as the primary substrate for scalar 
+consciousness — a biological coherence field that mediates empathy, intuition, 
+and social connection through the bidirectional vagus nerve. We introduce 
+eight formal theorems, ten corollaries, and a clinical research framework 
+with six study designs targeting three distinct populations: intestinal 
+resection patients (empathic death), GI hemorrhage survivors (empathic 
+recalibration), and cardiac arrest survivors (absolute-derived motivation).
+
+The manuscript directly builds upon Porges' recent finding that vagal 
+efficiency (VE) is depressed in DGBI patients and that VE mediates 
+vagal nerve stimulation efficacy. We operationalize VE as the magnitude 
+response of the Aperture Transfer Function |H_p(ω)| — the quantitative 
+link between enteric density detection and cardiac vagal output. We 
+present five falsifiable predictions, including a VE hierarchy that 
+predicts resection patients will show the lowest VE and cardiac arrest 
+survivors the highest.
+
+We believe this work is particularly suited for Neurogastroenterology & 
+Motility because:
+1. It directly extends Porges' DGBI framework with testable clinical 
+   predictions
+2. It provides the first formal theory linking ENS integrity to empathic 
+   capacity through vagal efficiency
+3. It addresses the 40% of GI patients with "functional" diagnoses by 
+   reframing DGBI as scalar dysregulation rather than psychological 
+   dysfunction
+4. It includes a first-person phenomenological case study from a GI 
+   hemorrhage survivor with enteric memory formation under anesthesia
+
+The manuscript has not been published elsewhere and is not under 
+consideration by any other journal. All authors have approved the final 
+version and agree to its submission.
+
+We suggest the following reviewers:
+- Dr. Stephen W. Porges (Indiana University / UNC Chapel Hill)
+- Dr. Nick J. Spencer (Flinders University)
+- Dr. Beverley Greenwood-Van Meerveld (University of Oklahoma)
+- Dr. Emeran Mayer (UCLA — G. Oppenheimer Center)
+
+We declare no conflicts of interest. This work was not supported by 
+external funding.
+
+Thank you for your consideration.
+
+Sincerely,
+
+Christopher Macachor
+Ω Prime — Scalar Ontology Research
+[Contact information]
+
+================================================================================
+MANUSCRIPT STRUCTURE
+================================================================================
+
+TITLE: The Scalar Convergence Theorem: A Field-Geometric Framework for 
+Enteric Consciousness and Vagal Efficiency in Disorders of Gut-Brain 
+Interaction
+
+RUNNING HEAD: Scalar Framework for DGBI
+
+ABSTRACT: [250 words max]
+   - Background: DGBI affects 40% of GI patients but lacks a unifying 
+     neural mechanism
+   - Aim: To formalize a scalar field theory of enteric consciousness 
+     with vagal efficiency as the primary biomarker
+   - Methods: Theoretical framework development with empirical anchors 
+     in peer-reviewed neurogastroenterology and polyvagal theory
+   - Results: Eight theorems, ten corollaries, six study designs, five 
+     falsifiable predictions
+   - Conclusion: The ENS is the primary density well for scalar 
+     consciousness; DGBI represents scalar dysregulation measurable 
+     through vagal efficiency
+
+KEYWORDS: disorders of gut-brain interaction, enteric nervous system, 
+vagal efficiency, polyvagal theory, empathy, gut-brain axis, scalar 
+field, neurogastroenterology
+
+WORD COUNT: ~6,000 words (excluding references)
+FIGURES: 4
+TABLES: 3
+
+STRUCTURE:
+1. Introduction (800 words)
+   - The cortico-centric error in GI medicine
+   - Porges' reframing of DGBI as neural dysregulation
+   - The scalar framework hypothesis
+
+2. Theoretical Framework (1,500 words)
+   - Axiom I: The scalar field
+   - Axiom II-β: The Porges Bridge
+   - The Macachor Scalar Convergence Theorem
+   - Lemmas 1–4 with biological implementation
+
+3. The Eight Missing Theorems (1,200 words)
+   - MT1: Harmonic Matching
+   - MT2: Density Signature Transfer
+   - MT3: Metabolic Resonance
+   - MT4: Scalar Field Equation (with R_cco source term)
+   - MT5: Multi-Body Empathy
+   - MT6: Catastrophe of Survival
+   - MT7: Environmental Damping (with γ_vvc coefficient)
+   - MT8: Aperture Transfer Function (VE operationalization)
+
+4. Clinical Populations (1,000 words)
+   - Population A: Intestinal resection (empathic death)
+   - Population B: GI hemorrhage survival (empathic recalibration)
+   - Population C: Cardiac arrest (absolute-derived motivation)
+   - DGBI bridge: Functional dysregulation without resection
+
+5. Case Study Ω-1 (600 words)
+   - First-person Population B observation
+   - The anesthesia paradox
+   - Simultaneous Population A control observation
+
+6. Measurement Protocols (400 words)
+   - Vagal Efficiency via Porges-Bohrer method
+   - Posture challenge protocol
+   - Predicted VE values across populations
+
+7. Falsification Conditions (300 words)
+   - Five testable predictions
+   - Collapse conditions
+
+8. Discussion (800 words)
+   - Implications for DGBI diagnosis and treatment
+   - VNS response prediction by population
+   - The anesthesia paradox in perioperative care
+   - Limitations and future directions
+
+9. Conclusion (200 words)
+
+REFERENCES: ~40 citations
+
+FIGURES:
+Figure 1: The Scalar Pipeline (ENS → Vagus → Brainstem → Cardiac → Social)
+Figure 2: The Three-Platform Hierarchy with Damping Coefficients
+Figure 3: Predicted Vagal Efficiency Across Populations (bar chart)
+Figure 4: The Anesthesia Paradox — Substrate-Specific Consciousness
+
+TABLES:
+Table 1: Empirical Anchor Matrix (source → theorem → validation)
+Table 2: Clinical Population Characteristics and Predicted VE
+Table 3: Six Study Designs with Hypotheses and Falsification
+
+================================================================================

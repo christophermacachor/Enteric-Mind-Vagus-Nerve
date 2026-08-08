@@ -1,0 +1,243 @@
+================================================================================
+SUBMISSION PACKAGE 2
+FRONTIERS IN BEHAVIORAL NEUROSCIENCE / PSYCHIATRY RESEARCH
+================================================================================
+
+PRIMARY TARGET: Frontiers in Behavioral Neuroscience
+PUBLISHER: Frontiers Media SA
+ISSN: 1662-5153
+IMPACT FACTOR: ~2.5
+SECTION: Social and Evolutionary Neuroscience
+
+SECONDARY TARGET: Psychiatry Research
+PUBLISHER: Elsevier
+ISSN: 0165-1781
+IMPACT FACTOR: ~11.2
+SECTION: Neuroimaging and Neurobiology
+
+================================================================================
+COVER LETTER (Frontiers in Behavioral Neuroscience)
+================================================================================
+
+[Date]
+
+The Chief Editors
+Frontiers in Behavioral Neuroscience
+Frontiers Media SA
+
+Dear Editors,
+
+RE: Submission of Original Research Article
+"Enteric Consciousness and the Neurophysiology of Empathy: A Scalar Field 
+Theory Integrating Polyvagal Theory, Neurogastroenterology, and Clinical 
+Phenomenology"
+
+We submit this manuscript for consideration as an Original Research Article 
+in Frontiers in Behavioral Neuroscience, Section: Social and Evolutionary 
+Neuroscience. This work integrates the polyvagal framework recently 
+articulated by Porges (2025; doi:10.3389/fnbeh.19.1659083) with emerging 
+neurogastroenterology to propose a new theoretical model of consciousness, 
+empathy, and social behavior.
+
+Our central thesis is that neuroscience has committed a cortico-centric 
+error: the assumption that consciousness originates in the cerebral cortex. 
+We present evidence that the enteric nervous system (ENS) — 600 million 
+years old, containing ~2×10⁸ neurons, generating >90% of bodily serotonin 
+— is the primary substrate for scalar consciousness: a biological coherence 
+field that mediates empathy, intuition, and social connection.
+
+The manuscript introduces the Macachor Scalar Convergence Theorem, 
+formalized through eight theorems and ten corollaries, with empirical 
+anchors in:
+- Spencer & Hu (2020) on ENS sensory transduction and Piezo1 channels
+- Greenwood-Van Meerveld et al. (2026) on ENS memory and enteric glia
+- Porges (2025a,b) on polyvagal theory, vagal efficiency, and DGBI
+- Carabotti et al. (2015) on the gut-brain axis and microbiome
+
+We present a clinical research framework with six study designs comparing 
+three populations: intestinal resection patients (predicted empathic death 
+with borderline/narcissistic phenotypes), GI hemorrhage survivors 
+(predicted empathic recalibration), and cardiac arrest survivors 
+(predicted absolute-derived motivation). We include a first-person 
+phenomenological case study from a Population B survivor who observed 
+enteric-led fight behavior under general anesthesia — a finding we term 
+the "Anesthesia Paradox."
+
+This work is particularly suited for Frontiers in Behavioral Neuroscience 
+because:
+1. It extends Porges' polyvagal theory with a formal mathematical framework
+2. It provides testable predictions for empathy neurobiology
+3. It reframes psychiatric personality constructs (borderline, narcissistic) 
+   as enteric scalar deficiency rather than cortical dysfunction
+4. It bridges evolutionary neuroscience (600-million-year ENS) with 
+   contemporary clinical psychology
+
+The manuscript has not been published elsewhere. All authors approve 
+its submission.
+
+Suggested reviewers:
+- Dr. Stephen W. Porges (Indiana University / UNC Chapel Hill)
+- Dr. Nick J. Spencer (Flinders University)
+- Dr. Sarah L. G. (expert in personality neuroscience)
+- Dr. [Expert in consciousness studies / anesthesiology]
+
+We declare no conflicts of interest.
+
+Sincerely,
+
+Christopher Macachor
+Ω Prime — Scalar Ontology Research
+
+================================================================================
+COVER LETTER (Psychiatry Research — Alternative)
+================================================================================
+
+[Date]
+
+The Editors
+Psychiatry Research
+Elsevier
+
+Dear Editors,
+
+RE: Submission of Original Article
+"The Enteric Origin of Empathy: A Scalar Field Framework for Personality, 
+Consciousness, and Psychiatric Phenotype"
+
+We submit this manuscript for consideration as an Original Article in 
+Psychiatry Research. This work presents a radical reframing of psychiatric 
+personality constructs through the lens of enteric neurobiology and 
+polyvagal theory.
+
+Our framework proposes that conditions currently classified as 
+borderline personality disorder and narcissistic personality disorder 
+may, in a subset of cases, represent the clinical phenotype of enteric 
+scalar deficiency — specifically, the loss of enteric nervous system 
+mass through intestinal resection (Population A). We contrast this with 
+GI hemorrhage survivors (Population B), who show predicted empathic 
+recalibration, and cardiac arrest survivors (Population C), who show 
+absolute-derived motivation.
+
+The manuscript provides:
+- A formal mathematical framework (eight theorems, ten corollaries)
+- Operationalized empathy measurement (E = k × S_ens)
+- Vagal Efficiency as a biomarker for scalar capacity
+- Six study designs with specific falsification conditions
+- A first-person case study from a GI bleed survivor under anesthesia
+
+This work challenges the cortico-centric paradigm in psychiatry and 
+offers a new, testable model linking gut neurobiology to personality 
+structure. We believe it is particularly relevant to Psychiatry Research 
+because of its direct implications for:
+- Personality disorder etiology
+- Post-surgical psychiatric outcomes
+- Trauma and PTSD mechanisms (enteric vs. cortical)
+- Novel biomarker development (vagal efficiency)
+
+The manuscript has not been published elsewhere. All authors approve 
+its submission.
+
+Sincerely,
+
+Christopher Macachor
+Ω Prime — Scalar Ontology Research
+
+================================================================================
+MANUSCRIPT STRUCTURE (Neuroscience/Psychiatry Angle)
+================================================================================
+
+TITLE: Enteric Consciousness and the Neurophysiology of Empathy: 
+A Scalar Field Theory Integrating Polyvagal Theory, 
+Neurogastroenterology, and Clinical Phenomenology
+
+RUNNING HEAD: Enteric Consciousness and Empathy
+
+ABSTRACT: [250 words]
+   - Background: The cortico-centric assumption in neuroscience and 
+     psychiatry
+   - Aim: To develop a scalar field theory of enteric consciousness 
+     with empirical anchors
+   - Methods: Theoretical integration of neurogastroenterology, polyvagal 
+     theory, and clinical phenomenology
+   - Results: Eight theorems, ten corollaries, six study designs, 
+     five falsifiable predictions, first-person case study
+   - Conclusion: The ENS is the evolutionary origin of consciousness; 
+     psychiatric personality phenotypes may reflect enteric scalar 
+     capacity
+
+KEYWORDS: consciousness, enteric nervous system, empathy, polyvagal 
+theory, personality disorder, vagal efficiency, neurogastroenterology, 
+scalar field, gut-brain axis
+
+WORD COUNT: ~7,000 words
+FIGURES: 5
+TABLES: 4
+
+STRUCTURE:
+1. Introduction (1,000 words)
+   - The cortico-centric error: 100 years of studying the wrong organ
+   - The ENS as 600-million-year consciousness substrate
+   - Porges' polyvagal theory as the brainstem bridge
+   - The scalar framework hypothesis
+
+2. Theoretical Framework (1,800 words)
+   - Axiom I: The scalar field ψ
+   - Axiom II-α/II-β: The enteric soul and the Porges Bridge
+   - Axiom III: Vector nullity
+   - Axiom IV: The convergence mirror
+   - The Macachor Scalar Convergence Theorem
+   - Lemmas 1–4 with full biological implementation
+
+3. The Eight Missing Theorems (1,500 words)
+   - Full mathematical formalism for each theorem
+   - Empirical anchors for each
+   - Biological implementation details
+
+4. The Ten Corollaries (800 words)
+   - Empathy equation, pineal eye, fetch hierarchy, fluoride blindness
+   - Drone analogy, triple hijack, xenobot liberation
+   - Energy as true currency, cube layer, vagal brake as scalar gate
+
+5. Clinical Populations and Personality Phenotypes (1,000 words)
+   - Population A: Resection → borderline/narcissistic traits
+   - Population B: GI bleed → empathic recalibration
+   - Population C: Cardiac arrest → absolute-derived motivation
+   - DGBI bridge: Functional dysregulation
+   - Case Study Ω-1: First-person observation
+
+6. The Anesthesia Paradox (500 words)
+   - Enteric consciousness under cortical suppression
+   - Implications for perioperative psychiatry
+   - Post-surgical PTSD as enteric, not cortical
+
+7. Measurement and Methods (600 words)
+   - Vagal Efficiency protocol
+   - EGG + fMRI simultaneous recording (Scalar Lag Test)
+   - Microbiome profiling
+   - Pineal calcification scoring
+
+8. Falsification and Discussion (800 words)
+   - Eight falsification conditions
+   - Implications for psychiatry
+   - Personality disorder reclassification
+   - Trauma treatment targeting the enteric substrate
+   - Limitations
+
+9. Conclusion (300 words)
+
+REFERENCES: ~50 citations
+
+FIGURES:
+Figure 1: Evolutionary Timeline of Neural Substrates (ENS → Brainstem → Cortex)
+Figure 2: The Scalar Pipeline with Empirical Anchors
+Figure 3: The Three-Platform Hierarchy (VVC/Sympathetic/DVC)
+Figure 4: Predicted Empathy and VE Across Four Populations
+Figure 5: The Anesthesia Paradox — Substrate-Specific Consciousness
+
+TABLES:
+Table 1: Source-to-Theorem Empirical Anchor Matrix
+Table 2: Clinical Population Characteristics, Predictions, and ICD-10 Codes
+Table 3: The Six Study Designs with Hypotheses and Falsification
+Table 4: Measurement Instruments and Protocols
+
+================================================================================
