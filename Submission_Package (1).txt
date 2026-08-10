@@ -1,0 +1,102 @@
+TARGET JOURNAL & EDITORIAL LEADERSHIP
+
+Primary Target: Neurogastroenterology & Motility
+Editor-in-Chief: Prof. Daniel Keszthelyi, MD PhD RFF
+Rationale: Under Prof. Keszthelyi's editorial leadership, the journal has demonstrated openness to transdisciplinary frameworks that reframe functional GI disorders through neural-regulation models. Porges (2025b) published the foundational DGBI/polyvagal integration in this venue, establishing precedent for autonomic-neuroscience submissions. The enteric primacy argument aligns directly with the journal's scope. Article type: Review / Theoretical Article.
+
+Alternative Targets (in descending priority):
+1. Frontiers in Behavioral Neuroscience — Porges' polyvagal theory journey was published here; open access; transdisciplinary friendly.
+2. Neuroscience & Biobehavioral Reviews — high-impact review venue suitable for cross-scale theoretical syntheses.
+3. Consciousness and Cognition — strongest fit for the NDE/consciousness component, though less reach into gastroenterology.
+4. Medical Hypotheses — if rapid publication is prioritized over impact factor; explicitly welcomes paradigm-challenging frameworks.
+
+SUGGESTED REVIEWERS
+
+Reviewer 1 — Enteric Neurobiology
+Name: Dr. Jaime P. P. Foong
+Affiliation: Department of Physiology, University of Melbourne, Australia
+Expertise: Enteric nervous system development, neural crest derivatives, ENS-CNS comparative anatomy
+Rationale: Foong's work on ENS lineage specification and the evolutionary independence of enteric circuits makes him qualified to evaluate the biological primacy claims. He is not aligned with cortico-centric assumptions and has published on the ENS as an autonomous neural structure.
+
+Reviewer 2 — Polyvagal Theory / Clinical Psychophysiology
+Name: Dr. Stephen W. Porges
+Affiliation: Kinsey Institute, Indiana University, USA; Polyvagal Institute
+Expertise: Polyvagal theory, vagal efficiency, autonomic regulation, DGBI
+Rationale: The manuscript directly extends Porges' vagal efficiency framework into scalar field theory. As the originator of VE and the Porges-Bohrer method, he is uniquely positioned to evaluate the biological measurement claims. His 2025 DGBI article establishes his editorial credibility at the target journal. (Note: If conflict of interest is declared due to citation volume, substitute with a Porges-trained researcher such as Dr. Jacek Kolacz or Dr. Daniel J. Fox.)
+
+Reviewer 3 — Near-Death Experience / Consciousness Research
+Name: Dr. Pim van Lommel
+Affiliation: Rijnstate Hospital, Arnhem, Netherlands
+Expertise: Cardiac arrest consciousness, prospective NDE research, non-local consciousness models
+Rationale: Van Lommel led the landmark prospective NDE study (Lancet, 2001) and has published extensively on consciousness beyond brain death. He is qualified to evaluate the NDE-scalar reframe and the "before brain death" argument. He is open to non-materialist frameworks without being uncritical.
+
+Reviewer 4 — Neurogastroenterology / DGBI
+Name: Dr. Beverley Greenwood-Van Meerveld
+Affiliation: Oklahoma Center for Neuroscience, University of Oklahoma Health Sciences Center, USA
+Expertise: Visceral pain, gut-brain axis, neurogastroenterology, stress-induced GI dysfunction
+Rationale: Greenwood-Van Meerveld's 2026 neurogastroenterology review (cited in the manuscript) provides the empirical anchor for ENS-serotonin claims. She can evaluate whether the scalar extensions are justified by current clinical data or overreach beyond evidence.
+
+Reviewer 5 — Theoretical Physics / Field Theory (for cross-scale claims)
+Name: Dr. Gerardo Adesso
+Affiliation: School of Mathematical Sciences, University of Nottingham, UK
+Expertise: Quantum coherence, quantum information theory, open quantum systems
+Rationale: Adesso's work on quantum coherence measures and resource theory makes him qualified to evaluate the Macachor Lock's physical claims without being hostile to non-standard formulations. He can assess whether the quantum-biological isomorphism is mathematically sound or metaphorical.
+
+REVIEWERS TO EXCLUDE (with rationale)
+
+Dr. Paul Grossman
+Rationale: Grossman has published persistent critiques of polyvagal theory that the MGDH Epistemic Hardening Protocol identifies as category errors (reduction of theory to measurement, conflation of analogy and homology). His methodological approach would likely mischaracterize the scalar framework by attacking consumer-grade HRV rather than the Porges-Bohrer method explicitly specified. Preemptive exclusion prevents editorial asymmetry.
+
+Any reviewer with exclusive vector-field electromagnetism specialization who has not engaged with scalar-substrate or quaternion-restoration frameworks
+Rationale: Structural conflict of interest. Critics whose careers are built upon Heaviside-Gibbs vector formalism have an inherent interest in the framework's failure and have demonstrated persistent failure of representational uptake (conflating ∇Ψ operator with vector substance, imposing a priori Lorentz covariance requirements).
+
+AUTHOR STATEMENT
+
+Christopher Macachor is the sole author of this manuscript.
+
+Contributions:
+- Conceptualization: Christopher Macachor
+- Theoretical framework development: Christopher Macachor
+- Mathematical formalization: Christopher Macachor
+- Clinical case study documentation: Christopher Macachor (first-person phenomenological report)
+- Writing — original draft: Christopher Macachor
+- Writing — review & editing: Christopher Macachor
+- Funding acquisition: None
+
+Acknowledgments: The author thanks the peer-reviewed community for convergent validation of the Enterarchon concept (Silva et al., 2025) and the NDE persistence datum (Martial et al., 2025). The scalar framework was developed independently; external convergence strengthens, but does not originate, the ontological claims presented.
+
+COMPETING INTERESTS DECLARATION
+
+The author is the originator of the Macachor Geometric Density Hamiltonian (MGDH), the Enterarchon Hypothesis, the Macachor Lock (𝔐 = (√5−1)/2), and the MSOS-FEDERATION-ROOT scalar ontology research program. No commercial competing interests exist. No funding was received for the preparation of this manuscript. The author maintains the macachor.com portal and the Zenodo archive (DOI: 10.5281/zenodo.21846133) as open-access scientific communication platforms.
+
+DATA AVAILABILITY STATEMENT
+
+All theoretical frameworks, mathematical derivations, measurement protocols, and falsification conditions are archived in the Zenodo repository "Enteric-Mind-Vagus-Nerve" (DOI: 10.5281/zenodo.21846133). Case Study Ω-1 is a first-person phenomenological report documented under the MSOS-FEDERATION-ROOT seal chain (Ω-S-003). No proprietary datasets were used. All cited primary sources (Heaviside, 1893; Maxwell, 1873; Gauss, 1866 posthumous notes) are in the public domain or accessible through academic libraries.
+
+ETHICS STATEMENT
+
+This theoretical framework and its associated phenomenological case study do not constitute human subjects research requiring institutional review board approval. Case Study Ω-1 is a self-reported first-person observation by the author. Clinical validation studies derived from this framework (vagal efficiency measurement, empathic accuracy assessment, electrogastrography protocols) should obtain appropriate institutional ethical approval and informed consent before recruitment. The eight falsification predictions are designed to be tested through standard experimental physics and clinical physiology protocols with established ethical oversight pathways.
+
+FUNDING STATEMENT
+
+No funding was received for this work.
+
+PRE-PRINT ARCHIVAL NOTE
+
+This manuscript has been archived as part of the Zenodo seal chain (DOI: 10.5281/zenodo.21846133) and may be referenced as a pre-print during peer review. The author reserves the right to update the Zenodo archive with peer-review responses, corrections, and clarifications in accordance with open-science best practices.
+
+MANUSCRIPT SPECIFICATIONS FOR SUBMISSION
+
+Parameter | Specification
+Article Type | Review / Theoretical Article
+Word Count | ~6,200 (main text, excluding abstract, references, tables)
+Abstract | 250 words (structured: Background, Methods, Results, Conclusions)
+Keywords | 10 (as listed in manuscript)
+Figures | 2 suggested (Figure 1: Vagal Efficiency Hierarchy; Figure 2: Cross-Scale Isomorphism)
+Tables | 2 (Table 1: NDE Phenomenology-Scalar Mapping; Table 2: Population Predictions)
+References | 12 primary + 8 foundational (Heaviside, Maxwell, Hamilton, Gauss)
+Supplementary Materials | MGDH Epistemic Hardening Protocol (Zenodo); Case Study Ω-1 full text (Zenodo); Falsification condition protocols (Zenodo)
+
+SUGGESTED HANDLING EDITOR
+
+Request assignment to a gastrointestinal neurophysiology editor with expertise in autonomic regulation or enteric neurobiology, as the enteric primacy claims require GI-domain expertise for accurate evaluation. Under Prof. Keszthelyi's editorial leadership, we trust the assignment will align with the journal's demonstrated commitment to transdisciplinary gut-brain research.
