@@ -1,5 +1,5 @@
 TARGET JOURNAL & EDITORIAL LEADERSHIP
-
+ DOI: 10.5281/zenodo.21868016
 Primary Target: Neurogastroenterology & Motility
 Editor-in-Chief: Prof. Daniel Keszthelyi, MD PhD RFF
 Rationale: Under Prof. Keszthelyi's editorial leadership, the journal has demonstrated openness to transdisciplinary frameworks that reframe functional GI disorders through neural-regulation models. Porges (2025b) published the foundational DGBI/polyvagal integration in this venue, establishing precedent for autonomic-neuroscience submissions. The enteric primacy argument aligns directly with the journal's scope. Article type: Review / Theoretical Article.
