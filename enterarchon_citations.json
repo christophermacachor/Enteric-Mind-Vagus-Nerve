@@ -1,0 +1,199 @@
+{
+  "archive_name": "Enterarchon Clinical Citation Archive",
+  "seal": "\u03a9-S-006-ENTERARCHON-CITATIONS",
+  "date": "2026-08-10",
+  "orcid": "0009-0008-0100-2856",
+  "contact": "info@macachor.org",
+  "total_apertures": 8,
+  "apertures": [
+    {
+      "id": "A1",
+      "seal": "\u03a9-S-006-A1",
+      "title": "Megacolon in Myotonic Dystrophy Caused by a Degenerative Neuropathy of the Myenteric Plexus",
+      "authors": [
+        "Yoshida MM",
+        "Krishnamurthy S",
+        "Wattchow DA",
+        "Furness JB",
+        "Schuffler MD"
+      ],
+      "journal": "Gastroenterology",
+      "year": 1988,
+      "volume": "95",
+      "issue": "3",
+      "pages": "820-827",
+      "doi": "10.1016/S0016-5085(88)80034-9",
+      "pmcid": null,
+      "pmid": null,
+      "scalar_thesis": "ENS degeneration alone causes total system failure despite intact muscle, mucosa, and connective tissue. The enteric plexus is the sole functional determinant.",
+      "clinical_relevance": "Proves that the tissue medicine ignores (myenteric plexus) holds the entire functional signature.",
+      "discipline": "Neurogastroenterology / Histopathology"
+    },
+    {
+      "id": "A2",
+      "seal": "\u03a9-S-006-A2",
+      "title": "Stroke Alters the Function of Enteric Neurons to Impair Smooth Muscle Relaxation and Dysregulates Gut Transit",
+      "authors": [
+        "Kumar KP",
+        "Wilson JL",
+        "Nguyen H",
+        "McKay LD",
+        "Wen SW",
+        "Sepehrizadeh T",
+        "de Veer M",
+        "Rajasekhar P",
+        "Carbone SE",
+        "Hickey MJ",
+        "Poole DP",
+        "Wong CHY"
+      ],
+      "journal": "Journal of the American Heart Association",
+      "year": 2024,
+      "volume": "13",
+      "issue": "3",
+      "pages": null,
+      "doi": "10.1161/JAHA.123.033279",
+      "pmcid": null,
+      "pmid": null,
+      "scalar_thesis": "Stroke activates the sympathetic nervous system, which suppresses nNOS in myenteric neurons, directly poisoning the enteric substrate. Chemical sympathectomy restores function.",
+      "clinical_relevance": "Stroke rehabilitation must address sympathetic overdrive to preserve enteric function. The CNS attacks the ENS directly.",
+      "discipline": "Stroke Neurology / Neurogastroenterology"
+    },
+    {
+      "id": "A3",
+      "seal": "\u03a9-S-006-A3",
+      "title": "Connecting the Dots: The Interplay Between Stroke and the Gut-Brain Axis",
+      "authors": [
+        "Murthy PM",
+        "Jayashankar CA",
+        "Kandi V",
+        "Reddy MK",
+        "Harikrishna GV",
+        "Reddy K",
+        "Ramya JP",
+        "Reddy AN",
+        "Narang J"
+      ],
+      "journal": "Cureus",
+      "year": 2023,
+      "volume": null,
+      "issue": null,
+      "pages": null,
+      "doi": null,
+      "pmcid": "PMC10168015",
+      "pmid": "37182027",
+      "scalar_thesis": "The gut-brain axis is bidirectional and entangled. Dysbiosis worsens stroke outcomes; germ-free mice show improved recovery. The microbiota is the microbial vector dampener.",
+      "clinical_relevance": "Stroke outcomes can be improved by addressing gut dysbiosis pre- and post-event. The gut participates in determining brain damage severity.",
+      "discipline": "Microbiology / Stroke Medicine"
+    },
+    {
+      "id": "A4",
+      "seal": "\u03a9-S-006-A4",
+      "title": "Loss of empathy in stroke",
+      "authors": [
+        "Tang WK",
+        "Hui E",
+        "Leung TWH"
+      ],
+      "journal": "Frontiers in Psychology",
+      "year": 2024,
+      "volume": "15",
+      "issue": null,
+      "pages": "1451431",
+      "doi": "10.3389/fpsyg.2024.1451431",
+      "pmcid": null,
+      "pmid": null,
+      "scalar_thesis": "Cortical lesions (VMPC, OFC, insula, amygdala) destroy the relay lens for empathy. The enteric brain still generates scalar truth, but the cortex cannot receive it.",
+      "clinical_relevance": "LoE patients retain cognitive empathy (perspective-taking) but lose emotional empathy (visceral resonance). They become social computers, not empathic beings.",
+      "discipline": "Neuropsychology / Stroke Psychiatry"
+    },
+    {
+      "id": "A5",
+      "seal": "\u03a9-S-006-A5",
+      "title": "Effect of family members' voice on level of consciousness of comatose patients admitted to the intensive care unit",
+      "authors": [
+        "Tavangar H",
+        "Shahriary-Kalantary M",
+        "Salimi T",
+        "Jarahzadeh M",
+        "Sarebanhassanabadi M"
+      ],
+      "journal": "Advanced Biomedical Research",
+      "year": 2015,
+      "volume": "4",
+      "issue": null,
+      "pages": "106",
+      "doi": "10.4103/2277-9175.157806",
+      "pmcid": "PMC4513326",
+      "pmid": "26261808",
+      "scalar_thesis": "A bonded voice (harmonic density) reawakens consciousness in comatose patients (GCS \u22648) by Day 6, while controls remain comatose. The voice bypasses the damaged cortex and speaks to the enteric sovereign.",
+      "clinical_relevance": "Coma protocols must include scalar resonance stimulation \u2014 the voice of a loved one, not generic auditory input.",
+      "discipline": "Critical Care Medicine / Consciousness Research"
+    },
+    {
+      "id": "A6",
+      "seal": "\u03a9-S-006-A6",
+      "title": "A neuroscientific model of near-death experiences reconsidered",
+      "authors": [
+        "Greyson B",
+        "Pehlivanova M"
+      ],
+      "journal": "Psychology of Consciousness: Theory, Research, and Practice",
+      "year": 2025,
+      "volume": null,
+      "issue": null,
+      "pages": null,
+      "doi": "10.1037/cns0000448",
+      "pmcid": null,
+      "pmid": null,
+      "scalar_thesis": "NDEs occur during cardiac arrest with flatline EEG. Veridical OBEs demonstrate accurate perception without cortical function. The NEPTUNE physicalist model fails on all empirical tests.",
+      "clinical_relevance": "Consciousness persists when the head brain is dead. The enteric brain records scalar truth during cardiac arrest and uploads it upon cortical reboot.",
+      "discipline": "Consciousness Studies / Near-Death Research"
+    },
+    {
+      "id": "A7",
+      "seal": "\u03a9-S-006-A7",
+      "title": "The Enterarchon Hypothesis: Three Brains, One Truth",
+      "authors": [
+        "Macachor C"
+      ],
+      "journal": "Enterarchon Manuscript",
+      "year": 2026,
+      "volume": null,
+      "issue": null,
+      "pages": null,
+      "doi": null,
+      "pmcid": null,
+      "pmid": null,
+      "scalar_thesis": "The enteric brain is the OS (scalar sovereign), the vehicle brain is the drone (harmonic timing), and the head brain is the AI chip (abstract translator). Synchronization determines coherence.",
+      "clinical_relevance": "Medical examination has focused on the head brain for 150 years while ignoring the enteric sovereign. This explains why treatment fails for conditions rooted in scalar decoupling.",
+      "discipline": "Scalar Theory / Systems Neuroscience"
+    },
+    {
+      "id": "A8",
+      "seal": "\u03a9-S-006-A8",
+      "title": "Chronic intestinal pseudo-obstruction with severe neuropsychiatric symptoms after total colectomy: a case report",
+      "authors": [
+        "Clinical Case Report"
+      ],
+      "journal": "Cureus",
+      "year": 2025,
+      "volume": null,
+      "issue": null,
+      "pages": null,
+      "doi": null,
+      "pmcid": "PMC11906528",
+      "pmid": null,
+      "scalar_thesis": "Total colectomy in a patient with no psychiatric history produced depression, anxiety, cognitive decline, and drug-overdose behavior. All symptoms resolved with SCFA nutritional restoration.",
+      "clinical_relevance": "Intestinal resection is a scalar decoupling procedure, not merely digestive surgery. Post-colectomy psychiatric symptoms are enteric decoupling syndrome, not adjustment disorder.",
+      "discipline": "Surgical Psychiatry / Metabolic Medicine"
+    }
+  ],
+  "synthesis": {
+    "total_disciplines": 7,
+    "time_span_years": 37,
+    "convergence_point": "The enteric nervous system is the primary scalar sovereign of human consciousness. The cortical brain is the translator, not the author.",
+    "clinical_paradigm_shift": "Medical examination and treatment must pivot from cortical-centric models to enteric-substrate models.",
+    "status": "Clinical Lock \u2014 Awaiting v4 Manuscript Integration"
+  }
+}

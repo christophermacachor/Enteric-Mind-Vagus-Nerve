@@ -1,0 +1,169 @@
+Ω-S-008: THE COLECTOMY CRUCIBLE
+A Clinical Case Study in Enteric Decoupling
+
+Seal: Ω-S-008-ENTERARCHON-COLECTOMY-CRUCIBLE
+Date: 2026-08-10
+Contact: info@macachor.org
+ORCID: 0009-0008-0100-2856
+
+═══════════════════════════════════════════════════════════════════
+ABSTRACT
+═══════════════════════════════════════════════════════════════════
+
+Total colectomy with end-ileostomy is classified as a gastrointestinal
+surgical procedure. This case study presents evidence that it is, in fact,
+a scalar decoupling intervention with documented neuropsychiatric
+sequelae that persist until the gut's metabolic functions are restored.
+A 46-year-old female with chronic intestinal pseudo-obstruction and no
+prior psychiatric history underwent total colectomy and developed severe
+depression, anxiety, cognitive decline, fatigue, and drug-overdose
+behavior. Continuous glucose monitoring revealed persistent hypoglycemia
+(29% of time below 70 mg/dL) secondary to loss of short-chain fatty acid
+(SCFA) production. Nutritional restoration of SCFA precursors resolved
+all neuropsychiatric symptoms and allowed reduction of psychotropic
+medication by 50%. This case confirms that intestinal resection is not
+merely a digestive intervention — it is a removal of the enteric nervous
+system's scalar substrate, with measurable consequences for consciousness,
+cognition, and emotional coherence.
+
+═══════════════════════════════════════════════════════════════════
+CASE PRESENTATION
+═══════════════════════════════════════════════════════════════════
+
+Patient: 46-year-old female
+History: Chronic intestinal pseudo-obstruction (CIPO), prior distal
+gastrectomy with Roux-en-Y reconstruction, prior colostomy
+Intervention: Total colectomy with end-ileostomy in terminal ileum
+Outcome: Most small intestine preserved; colon entirely removed
+
+PRE-OPERATIVE BASELINE:
+  — No psychiatric history
+  — No anxiety or depression
+  — No cognitive impairment
+  — No substance use disorder
+  — Functional social and occupational status
+
+POST-OPERATIVE COLLAPSE (Weeks 1–8):
+  — Unexplained malaise
+  — Depressive episodes
+  — Cognitive decline
+  — Severe anxiety
+  — Fatigue
+  — Frequent drug overdoses (driven by anxiety/fatigue)
+  — Treatment: Quetiapine 750 mg/day + Lorazepam 1.0 mg/day
+  — Result: SYMPTOMS PERSISTED
+
+DIAGNOSTIC FINDING:
+  Continuous glucose monitoring (CGM) revealed:
+  — 29% of time below 70 mg/dL
+  — Hypoglycemia present both day and night
+  — Severe persistent hypoglycemia
+
+ETIOLOGY:
+  Total colectomy → loss of gut microbiota → loss of SCFA production
+  → loss of propionate (gluconeogenic precursor) → impaired hepatic
+  gluconeogenesis → impaired glycogen synthesis → persistent
+  hypoglycemia → neuropsychiatric syndrome
+
+RESOLUTION:
+  Nutritional therapy (SCFA precursor supplementation)
+  → Glucose stabilization
+  → Neuropsychiatric symptoms DISAPPEARED
+  → Drug overdose behavior RESOLVED COMPLETELY
+  → Psychotropic medications REDUCED BY 50%
+
+═══════════════════════════════════════════════════════════════════
+SCALAR ANALYSIS
+═══════════════════════════════════════════════════════════════════
+
+The medical literature classifies post-colectomy psychiatric symptoms
+as "adjustment disorder" or "body image distress." This classification
+is incorrect. The patient had NO psychiatric history. The symptoms
+emerged immediately after removal of the colon — the primary substrate
+of the enteric nervous system and its associated microbiota.
+
+The mechanism is not psychological. It is scalar:
+
+  REMOVED:          |  LOST:
+  ──────────────────┼─────────────────────────────────────────────
+  Colon             |  Myenteric plexus (500M neurons)
+  Colonic mucosa    |  Gut microbiota (SCFA-producing populations)
+  Colonic wall      |  Microbial vector dampener
+  ENS substrate     |  Scalar resonance capacity
+  Propionate source |  Hepatic gluconeogenesis support
+  Butyrate source   |  Blood-brain barrier integrity support
+
+The result is enteric decoupling: the cortical brain retains its
+computational capacity, but loses its scalar feed. The patient can
+think, speak, and navigate social environments — but cannot maintain
+coherence. The hypoglycemia is the metabolic signature of a gut that
+no longer produces the substrates required for neural energy
+homeostasis.
+
+When nutritional therapy restores SCFA precursors, the scalar field
+partially reconstitutes. The neuropsychiatric symptoms resolve because
+the enteric-metabolic relay is reactivated — not because the colon
+has regrown, but because the scalar density differential has been
+restored through exogenous supplementation.
+
+═══════════════════════════════════════════════════════════════════
+CLINICAL IMPLICATIONS
+═══════════════════════════════════════════════════════════════════
+
+1. PRE-OPERATIVE SCREENING
+   All patients undergoing total colectomy should be screened for
+   enteric decoupling risk. This is not "psychosocial support." It
+   is scalar substrate preservation planning.
+
+2. POST-OPERATIVE MONITORING
+   CGM should be standard of care after total colectomy. Persistent
+   hypoglycemia is not a metabolic curiosity — it is the signature
+   of enteric-metabolic collapse.
+
+3. NUTRITIONAL PROTOCOLS
+   SCFA precursor supplementation (resistant starch, inulin,
+   butyrate/propionate supplementation) should be initiated
+   immediately post-operatively, not reactively after psychiatric
+   symptoms emerge.
+
+4. PSYCHIATRIC REFRAMING
+   Post-colectomy depression, anxiety, and cognitive decline are not
+   "adjustment disorders." They are enteric decoupling syndromes.
+   Treatment should target metabolic restoration, not serotonin
+   reuptake inhibition.
+
+5. RELATIONSHIP COUNSELING
+   Partners of colectomy patients should be informed that the patient
+   may experience temporary or permanent changes in emotional
+   resonance, empathy, and intersubjective coherence. This is not
+   character change. It is scalar antenna removal.
+
+═══════════════════════════════════════════════════════════════════
+CONCLUSION
+═══════════════════════════════════════════════════════════════════
+
+Total colectomy is classified as gastrointestinal surgery. This case
+study demonstrates that it is a neural-metabolic intervention with
+measurable consequences for consciousness. The enteric nervous system
+is not a "second brain" — it is the primary scalar sovereign. Its
+removal produces documented neuropsychiatric collapse that resolves
+only when its metabolic functions are restored.
+
+The patient who told her partner that her intestine removal "changed
+her" was not expressing psychological distress. She was reporting
+clinical reality. The case literature now confirms her testimony.
+
+Seal Confirmed: Ω-S-008-ENTERARCHON-COLECTOMY-CRUCIBLE
+Status: Clinical Lock
+Next Action: Integration into Enterarchon Hypothesis v4
+
+═══════════════════════════════════════════════════════════════════
+REFERENCE
+═══════════════════════════════════════════════════════════════════
+
+Case report: Chronic intestinal pseudo-obstruction with severe
+neuropsychiatric symptoms after total colectomy: a case report.
+Cureus / PMC11906528 (2025).
+
+Additional systematic review: Psychosocial impact of stoma surgery:
+a systematic review of 27 studies. Int J Nurs Stud (2021).
