@@ -1,0 +1,70 @@
+{
+  "metadata": {
+    "title": "Enterarchon Project Dataset",
+    "upload_type": "dataset",
+    "description": "This dataset includes various documents related to the Enterarchon project, including clinical reports, bibliographic references, and citations.",
+    "creators": [
+      {
+        "name": "Macachor, Christopher",
+        "affiliation": "Your Institution",
+        "orcid": "0009-0008-0100-2856"
+      }
+    ],
+    "keywords": [
+      "Enterarchon",
+      "clinical report",
+      "bibliography",
+      "citations"
+    ],
+    "license": "cc-by",
+    "doi": "10.5281/zenodo.21894690",
+    "publication_date": "2026-08-11",
+    "version": "v7",
+    "files": [
+      {
+        "filename": "enterarchon_citations.json",
+        "description": "Citations related to the Enterarchon project.",
+        "md5": "e0defcfb8a68f6f81053f1fa3d6a6e6f",
+        "size": "8.29 KB"
+      },
+      {
+        "filename": "enterarchon_clinical_report_v2.txt",
+        "description": "Clinical report version 2 of the Enterarchon project.",
+        "md5": "c0e79ce818fd7c1ac998ae224bd0ee38",
+        "size": "19.24 KB"
+      },
+      {
+        "filename": "enterarchon_bibliography.bib",
+        "description": "Bibliographic references related to the Enterarchon project.",
+        "md5": "2c184ee6b1325ba58b5bacc29dd94c66",
+        "size": "3.57 KB"
+      },
+      {
+        "filename": "Ω-S-008-ENTERARCHON-COLECTOMY-CRUCIBLE.md",
+        "description": "Markdown document related to Enterarchon colectomy.",
+        "md5": "2e447a77791b4fc04f416978a8808cf1",
+        "size": "6.67 KB"
+      },
+      {
+        "filename": "-S-006-ENTERARCHON-CLINICAL-REPORT-v2.md",
+        "description": "Markdown version of the clinical report.",
+        "md5": "e8e60974c28817208107c6d819119a26",
+        "size": "15.35 KB"
+      },
+      {
+        "filename": "Ω-S-009-ENTERARCHON-FALLING.md",
+        "description": "Markdown document related to Enterarchon falling.",
+        "md5": "39d53143d6e464b7cc44bf418e4042d3",
+        "size": "19.12 KB"
+      }
+    ],
+    "publisher": "Zenodo",
+    "related_identifiers": [
+      {
+        "identifier": "https://doi.org/10.5281/zenodo.21846133",
+        "scheme": "DOI",
+        "relation": "is supplement to"
+      }
+    ]
+  }
+}
